@@ -1,0 +1,86 @@
+01 - Introduction & Setup
+	(1280, 720) | 001 Welcome To The Course.mp4
+	(1280, 720) | 002 Downloading Godot.mp4
+	(1280, 720) | 003 Create A Project.mp4
+	(1280, 720) | 004 Exploring Godot�s Interface.mp4
+	(1280, 720) | 005 More Interface Exploration.mp4
+	(1280, 720) | 006 Community & Support.mp4
+	(1280, 720) | 007 Accessing Our Projects.mp4
+02 - Speedy Saucer
+	(1280, 720) | 001 Section Intro - Speedy Saucer.mp4
+	(1280, 720) | 002 Project Setup.mp4
+	(1280, 720) | 003 Nodes & Scenes.mp4
+	(1280, 720) | 004 Rigidbody2D & Collision Shapes.mp4
+	(1280, 720) | 005 Instancing Scenes.mp4
+	(1280, 720) | 006 Editing Instances.mp4
+	(1280, 720) | 007 Parent & Child Relationship.mp4
+	(1280, 720) | 008 Draw Order & Z Index.mp4
+	(1280, 720) | 009 Intro To Scripting.mp4
+	(1280, 720) | 010 Functions & Printing Text.mp4
+	(1280, 720) | 011 Number Operations & More Printing.mp4
+	(1280, 720) | 012 Introducing Variables.mp4
+	(1280, 720) | 013 Function ParametersArguments.mp4
+	(1280, 720) | 014 Vector2 & apply_impulse( ).mp4
+	(1280, 720) | 015 Processing & apply_force( ).mp4
+	(1280, 720) | 016 If Statement & Comparison Operators.mp4
+	(1280, 720) | 017 Getting Input.mp4
+	(1280, 720) | 018 Variable Scope.mp4
+	(1280, 720) | 019 Function Return Values.mp4
+	(1280, 720) | 020 Following The Player With Camera2D.mp4
+	(1280, 720) | 021 Making The Maze.mp4
+	(1280, 720) | 022 Using Signals To Reset The Game.mp4
+	(1280, 720) | 023 Parallax Background & Text Labels.mp4
+	(1280, 720) | 024 Wrap Up - Speedy Saucer.mp4
+03 - Alien Attack
+	(1280, 720) | 001 Section Intro - Alien Attack.mp4
+	(1280, 720) | 002 Project Setup & Player Scene.mp4
+	(1280, 720) | 003 Player Movement.mp4
+	(1280, 720) | 004 Clamping Players Position.mp4
+	(1280, 720) | 005 Rocket Scene & Movement.mp4
+	(1280, 720) | 006 Understanding Delta Time.mp4
+	(1280, 720) | 007 Shooting Rockets.mp4
+	(1280, 720) | 008 Creating References To Nodes.mp4
+	(1280, 720) | 009 Deleting Unwanted Rockets.mp4
+	(1280, 720) | 010 Enemy Scene & Movement.mp4
+	(1280, 720) | 011 Enemy Spawner Scene.mp4
+	(1280, 720) | 012 Spawn Enemy Function.mp4
+	(1280, 720) | 013 Shooting Enemies & Collision Layers.mp4
+	(1280, 720) | 014 Enemy Deathzone.mp4
+	(1280, 720) | 015 Lives & Custom Signals.mp4
+	(1280, 720) | 016 Scoring & Enemy Died Signal.mp4
+	(1280, 720) | 017 Score UI.mp4
+	(1280, 720) | 018 Lives UI.mp4
+	(1280, 720) | 019 Game Over Screen.mp4
+	(1280, 720) | 020 Adding Sound Effects.mp4
+	(1280, 720) | 021 Flame Particle Effect.mp4
+	(1280, 720) | 022 Path Enemy.mp4
+	(1280, 720) | 023 Adding Path Enemy To The Spawner.mp4
+	(1280, 720) | 024 Wrap Up - Alien Attack.mp4
+04 - Martian Mike
+	(1280, 720) | 001 Section Intro - Martian Mike.mp4
+	(1280, 720) | 002 Project Setup - Martian Mike.mp4
+	(1280, 720) | 003 Animated Sprites.mp4
+	(1280, 720) | 004 Player Movement.mp4
+	(1280, 720) | 005 Boolean Operators.mp4
+	(1280, 720) | 006 Updating Animations.mp4
+	(1280, 720) | 007 Deathzone.mp4
+	(1280, 720) | 008 Jump Pad.mp4
+	(1280, 720) | 009 Traps.mp4
+	(1280, 720) | 010 Animation Player.mp4
+	(1280, 720) | 011 Arrays & Groups.mp4
+	(1280, 720) | 012 The For Loop.mp4
+	(1280, 720) | 013 Tilemap Basics.mp4
+	(1280, 720) | 014 Tilemap Terrains (Autotile).mp4
+	(1280, 720) | 015 Scrolling Background.mp4
+	(1280, 720) | 016 Start Area.mp4
+	(1280, 720) | 017 Exit Area.mp4
+	(1280, 720) | 018 Changing Scenes.mp4
+	(1280, 720) | 019 More Levels.mp4
+	(1280, 720) | 020 Level Timer.mp4
+	(1280, 720) | 021 Timer HUD.mp4
+	(1280, 720) | 022 Win Screen.mp4
+	(1280, 720) | 023 Start Menu.mp4
+	(1280, 720) | 024 Level Design.mp4
+	(1280, 720) | 025 Autoloads (Singleton Pattern).mp4
+	(1280, 720) | 026 One-Time Sound Effects.mp4
+	(1280, 720) | 027 Wrap Up - Martian Mike.mp4

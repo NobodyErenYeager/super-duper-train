@@ -1,0 +1,81 @@
+
+002 martian-mike-assets.zip
+https://cdn.fs.teachablecdn.com/2zWwgeYR0yQHgREbCDM7
+
+002 This-Lectures-Project-Changes
+https://gitlab.com/GameDevTV/godot-complete-2d/martian-mike/commit/72774a2b5effbb84931b97b7b2dfad8d6bef18db
+
+003 This-Lectures-Project-Changes
+https://gitlab.com/GameDevTV/godot-complete-2d/martian-mike/commit/06562c021cbebed9b248b5b6a3e4754d2eb78674
+
+004 This-Lectures-Project-Changes
+https://gitlab.com/GameDevTV/godot-complete-2d/martian-mike/commit/db9a23adebaab8eb861dd5e1a88159ca1a12a529
+
+005 This-Lectures-Project-Changes
+https://gitlab.com/GameDevTV/godot-complete-2d/martian-mike/commit/5d181e0bbf75bab6c25d829a8b6e0c6df11b3b24
+
+006 This-Lectures-Project-Changes
+https://gitlab.com/GameDevTV/godot-complete-2d/martian-mike/commit/e29ca027f43864e5a0ab639b37aaa045011edda5
+
+007 This-Lectures-Project-Changes
+https://gitlab.com/GameDevTV/godot-complete-2d/martian-mike/commit/2fc060860787accadd7a2012bbbf329d848db971
+
+008 This-Lectures-Project-Changes
+https://gitlab.com/GameDevTV/godot-complete-2d/martian-mike/commit/84222603a4e6ec5a6e305361e539e6954882a56c
+
+009 This-Lectures-Project-Changes
+https://gitlab.com/GameDevTV/godot-complete-2d/martian-mike/commit/9f09a8fcb8d550e7df07d180826d4ea760d2a439
+
+010 This-Lectures-Project-Changes
+https://gitlab.com/GameDevTV/godot-complete-2d/martian-mike/commit/68b398b0c2fda35f22db8ec30666667be02a7a03
+
+011 This-Lectures-Project-Changes
+https://gitlab.com/GameDevTV/godot-complete-2d/martian-mike/commit/0f6eb5c50932d7dd794634860a703cd4d4c55cc2
+
+012 This-Lectures-Project-Changes
+https://gitlab.com/GameDevTV/godot-complete-2d/martian-mike/commit/e2c24863fe8fc32fc4058f7cb36a517d957ef37d
+
+013 This-Lectures-Project-Changes
+https://gitlab.com/GameDevTV/godot-complete-2d/martian-mike/commit/cf024cc58072de2d80b62b15467677b79a77fcbf
+
+014 This-Lectures-Project-Changes
+https://gitlab.com/GameDevTV/godot-complete-2d/martian-mike/commit/ecee46e8a844e6182515ad0e54a93b8568022af0
+
+015 This-Lectures-Project-Changes
+https://gitlab.com/GameDevTV/godot-complete-2d/martian-mike/commit/e6e2e74acde65318ffe7485154a927be5e61abb3
+
+016 This-Lectures-Project-Changes
+https://gitlab.com/GameDevTV/godot-complete-2d/martian-mike/commit/670a908c582775346f6939cba7685ec17a406eb6
+
+017 This-Lectures-Project-Changes
+https://gitlab.com/GameDevTV/godot-complete-2d/martian-mike/commit/042e40e622ea69ca3e8eca6bd9b018cbf457e662
+
+018 This-Lectures-Project-Changes
+https://gitlab.com/GameDevTV/godot-complete-2d/martian-mike/commit/d4159cc90ed00088ad591672f5422824bfeb7bbc
+
+019 This-Lectures-Project-Changes
+https://gitlab.com/GameDevTV/godot-complete-2d/martian-mike/commit/52c6b96ddd8031858ffb0914e655e21fb34f3538
+
+020 This-Lectures-Project-Changes
+https://gitlab.com/GameDevTV/godot-complete-2d/martian-mike/commit/af84d2fe901f9a4e28c867b72aba994385c23306
+
+021 This-Lectures-Project-Changes
+https://gitlab.com/GameDevTV/godot-complete-2d/martian-mike/commit/6e6caecbf2a304c169e882f98ffbd380f86bff1d
+
+022 This-Lectures-Project-Changes
+https://gitlab.com/GameDevTV/godot-complete-2d/martian-mike/commit/2f2e9bb3b47a567dd286686bbd27753a21032544
+
+023 This-Lectures-Project-Changes
+https://gitlab.com/GameDevTV/godot-complete-2d/martian-mike/commit/88e76532140f70444baad82329581c26de9a97c0
+
+024 This-Lectures-Project-Changes
+https://gitlab.com/GameDevTV/godot-complete-2d/martian-mike/commit/8dda5a31528e93f4423b134a3890c0c398a27737
+
+025 music.zip
+https://cdn.fs.teachablecdn.com/3zO9ubgRzmjg8CPRuhQw
+
+025 This-Lectures-Project-Changes
+https://gitlab.com/GameDevTV/godot-complete-2d/martian-mike/commit/e579814ed1887481fe0d5ad6fd0f275e2d5346b5
+
+026 This-Lectures-Project-Changes
+https://gitlab.com/GameDevTV/godot-complete-2d/martian-mike/commit/c12afa321e01e387a7e6c91f60582d48736ffe5d

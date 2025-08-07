@@ -1,0 +1,24 @@
+
+002 Download-Godot
+https://www.godotengine.org/download
+
+006 Chrome-Live-Captions
+https://www.youtube.com/watch?v=XOyodYKSQ0I
+
+006 GameDev.tv-Community-Forum
+https://community.gamedev.tv/?_gl=1*u4q51s*_ga*MTQ2MjQxNzY1MC4xNjcyMzgzNDU2*_ga_2C81L26GR9*MTY4MTgxNjYyMy43MC4xLjE2ODE4MTY3MzAuMC4wLjA.
+
+006 GameDev.tv-on-Discord
+http://gdev.tv/discord
+
+006 GameDev.tv-Blender-Facebook-Group
+https://www.facebook.com/groups/blendercourse
+
+006 GameDev.tv-on-YouTube-Livecasts-
+https://www.youtube.com/c/GameDevTVChannel
+
+006 GameDev.tv-on-Twitter
+https://twitter.com/GameDevTV
+
+006 GameDev.tv-Blog
+https://blog.gamedev.tv/?_gl=1*cgi8qn*_ga*MTQ2MjQxNzY1MC4xNjcyMzgzNDU2*_ga_2C81L26GR9*MTY4MTgxNjYyMy43MC4xLjE2ODE4MTcyMTIuMC4wLjA.

@@ -1,0 +1,72 @@
+
+002 Kenney.nl-Space-Shooter-Redux
+https://kenney.nl/assets/space-shooter-redux
+
+002 speedy-saucer-assets.zip
+https://cdn.fs.teachablecdn.com/Mg42LH7Qt24A9KMesDXQ
+
+002 This-Lectures-Project-Changes
+https://gitlab.com/GameDevTV/godot-complete-2d/speedy-saucer/commit/785e2bc6295060f2225f69f95b83eee0ee5d5d78
+
+003 This-Lectures-Project-Changes
+https://gitlab.com/GameDevTV/godot-complete-2d/speedy-saucer/commit/760c188a76974edd4f25ae686155c73ef3a84b08
+
+004 This-Lectures-Project-Changes
+https://gitlab.com/GameDevTV/godot-complete-2d/speedy-saucer/commit/c6145b2dad5dd586d9504d6f32f6e9d842f503d5
+
+005 This-Lectures-Project-Changes
+https://gitlab.com/GameDevTV/godot-complete-2d/speedy-saucer/commit/d612e42b1208a7fdc4c058e499a450d87c1bc411
+
+006 This-Lectures-Project-Changes
+https://gitlab.com/GameDevTV/godot-complete-2d/speedy-saucer/commit/9b53437e355a7fade06e373dd44de34ae6a8115c
+
+007 This-Lectures-Project-Changes
+https://gitlab.com/GameDevTV/godot-complete-2d/speedy-saucer/commit/cfd454adefbaf29815346da10b34fa744556a35c
+
+008 This-Lectures-Project-Changes
+https://gitlab.com/GameDevTV/godot-complete-2d/speedy-saucer/commit/13770ba414bda170cb3e1e0a38aa6f91224e096b
+
+009 This-Lectures-Project-Changes
+https://gitlab.com/GameDevTV/godot-complete-2d/speedy-saucer/commit/7f9ea137ab27315c6c812bfa08c5e3d71565558e
+
+010 This-Lectures-Project-Changes
+https://gitlab.com/GameDevTV/godot-complete-2d/speedy-saucer/commit/be06ede064f8c13b48ef61810edd1d1adb5bde7b
+
+011 This-Lectures-Project-Changes
+https://gitlab.com/GameDevTV/godot-complete-2d/speedy-saucer/commit/c469f78b1127224bfdc26f977c0f54c533ce91f9
+
+012 This-Lectures-Project-Changes
+https://gitlab.com/GameDevTV/godot-complete-2d/speedy-saucer/commit/2b7deb34026b97e2a19f5a5a3d0d3a6f842f2a2d
+
+013 This-Lectures-Project-Changes
+https://gitlab.com/GameDevTV/godot-complete-2d/speedy-saucer/commit/ccddf1863bd02d5ff0600a18b6834a569631f489
+
+014 This-Lectures-Project-Changes
+https://gitlab.com/GameDevTV/godot-complete-2d/speedy-saucer/commit/913727a17e30a2c55cb16d91bf4123e4fc4e8bf0
+
+015 This-Lectures-Project-Changes
+https://gitlab.com/GameDevTV/godot-complete-2d/speedy-saucer/commit/7cd8f9474d15862cc27b95bf0d16bbf441afd405
+
+016 This-Lectures-Project-Changes
+https://gitlab.com/GameDevTV/godot-complete-2d/speedy-saucer/commit/487d8fec5e2f3417db5731148a05f1beca0bdd64
+
+017 This-Lectures-Project-Changes
+https://gitlab.com/GameDevTV/godot-complete-2d/speedy-saucer/commit/b28d92e90a12654e267c2440eea97e125dcfa315
+
+018 This-Lectures-Project-Changes
+https://gitlab.com/GameDevTV/godot-complete-2d/speedy-saucer/commit/548c55bb45ea9e15f3a38eab0a6b28550ea09a83
+
+019 This-Lectures-Project-Changes
+https://gitlab.com/GameDevTV/godot-complete-2d/speedy-saucer/commit/46eea71f81c33f11a26cff886bb0478b0ffd56a9
+
+020 This-Lectures-Project-Changes
+https://gitlab.com/GameDevTV/godot-complete-2d/speedy-saucer/commit/5bd9c0a5b47f572e39b1aa76802fc6873527dfe3
+
+021 This-Lectures-Project-Changes
+https://gitlab.com/GameDevTV/godot-complete-2d/speedy-saucer/commit/0b5efae3debdce291f190d310afdbe7c1bbafe9e
+
+022 This-Lectures-Project-Changes
+https://gitlab.com/GameDevTV/godot-complete-2d/speedy-saucer/commit/4ef20db2aef0eecd150330ec33f706c48e6d2ffa
+
+023 This-Lectures-Project-Changes
+https://gitlab.com/GameDevTV/godot-complete-2d/speedy-saucer/commit/4ea3e7d3ca5cab6d9d2d9bf446d7486fcd9f788b
